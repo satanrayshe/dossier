@@ -2,7 +2,7 @@
 
 **See your npub the way a surveillance analyst does.**
 
-Live: **https://satanrayshe.github.io/dossier/**
+Live: **https://satanrayshe.github.io/dossier/** · Demo video: https://youtu.be/fjHhKI4tsYQ
 
 Paste a Nostr public key. Dossier reads public relays, the subject's lightning address and the Bitcoin block chain straight from your browser. From that it writes the file an analyst could build: where you probably live, when you sleep, who you DM, who pays you, which custodian holds your zaps, and which relays still serve the notes you deleted. Then it gives you one-click fixes, signed by your own NIP-07 extension.
 
